@@ -6,3 +6,6 @@ Kelas   : PBP F
 
 Hobi    : Makan
 
+Jurusan : Sistem Informasi
+
+
